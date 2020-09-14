@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\DSaturProject\DSaturProject\bin\Debug\DSaturProject.exe.config
+C:\Users\Asus\source\repos\DSaturProject\DSaturProject\bin\Debug\DSaturProject.exe
+C:\Users\Asus\source\repos\DSaturProject\DSaturProject\bin\Debug\DSaturProject.pdb
+C:\Users\Asus\source\repos\DSaturProject\DSaturProject\obj\Debug\DSaturProject.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\DSaturProject\DSaturProject\obj\Debug\DSaturProject.Form1.resources
+C:\Users\Asus\source\repos\DSaturProject\DSaturProject\obj\Debug\DSaturProject.Properties.Resources.resources
+C:\Users\Asus\source\repos\DSaturProject\DSaturProject\obj\Debug\DSaturProject.csproj.GenerateResource.Cache
+C:\Users\Asus\source\repos\DSaturProject\DSaturProject\obj\Debug\DSaturProject.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\DSaturProject\DSaturProject\obj\Debug\DSaturProject.exe
+C:\Users\Asus\source\repos\DSaturProject\DSaturProject\obj\Debug\DSaturProject.pdb
+C:\Users\Asus\source\repos\DSaturProject\DSaturProject\obj\Debug\DSaturProject.DrawGraph.resources
